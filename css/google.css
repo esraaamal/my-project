@@ -1,0 +1,27 @@
+body{
+
+    background-color: aquamarine;
+    background-image: url(https://www.vozactual.com/wp-content/uploads/2016/10/The-First-Few-Weeks-Of-University-Life.jpg) ;
+background-color: #cccccc;
+height: 500px;
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+.sign-in {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgb(0, 0, 0, 3);
+    background: #fff;
+    padding:20px;
+    margin: 8% auto 0;
+    text-align: center;
+    
+
+  
+    
+}
+
+
+

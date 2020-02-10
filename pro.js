@@ -1,14 +1,4 @@
-var esr=function(){
 
-var number;
-number=prompt("let me know how number of box do you need")
-for(var i=0 ;i<number;i++)
-{
-
-
-
-
-}
-
-
-}
+name=prompt('what is your name');
+alert('please sign in first');
+document.write('<h3>'+'hi'+' '+name+'</h3>')
