@@ -65,7 +65,7 @@ font-size: 15px;
 }
 /*unviseted-link*/
 .sign-in p a:link{
-color: yellow;
+color: rgb(58, 9, 41);
 }
 /*viseted-link*/
 .sign-in p a:visited{
