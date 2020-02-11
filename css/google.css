@@ -56,13 +56,17 @@ font-size: 15px;
 }
 
 
-.signface-btn a{
+ a{
     text-decoration: none;
     font: outline;
     font-style: bold;
     color: white;
     
 }
+.sign-in p a{
+    text-decoration: underline;
+}
+
 /*unviseted-link*/
 .sign-in p a:link{
 color: rgb(58, 9, 41);
@@ -78,4 +82,18 @@ color: rgb(58, 9, 41);
 /*click the link*/
 .sign-in p a:active{
     color: rgb(11, 116, 28);
+}
+hr{
+margin-top: 20px;
+width: 80%;
+
+}
+.or{
+    margin: -19px auto 10px;
+    width: 30px;
+    background-color: #fff;
+}
+.sign-in img{
+    width: 80px;
+    margin-top: -50px;
 }
