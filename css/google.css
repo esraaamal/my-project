@@ -31,6 +31,7 @@ color: #1c8adb;
     width: 90%;
     outline: none;
     border: 1px snow #999;
+
 }
 button{
     color: #fff;
@@ -44,6 +45,8 @@ font-size: 15px;
 
 
 }
+
+
 
 .signUp-btn{
     background-color: #1c8adb ;
@@ -60,6 +63,7 @@ font-size: 15px;
 }
 .signface-btn:hover{
     box-shadow: 0px 0px 18px rgb(9, 125, 202);
+    
 }
 
 
